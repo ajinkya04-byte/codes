@@ -1,4 +1,4 @@
 # codes
-Includes DSA and CPP codes.
+Includes DSA in CPP
 <br>
 Author:Ajinkya Thorat
